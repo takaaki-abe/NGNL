@@ -1,0 +1,6 @@
+framework module web_vuw {
+  umbrella header "web_vuw-umbrella.h"
+
+  export *
+  module * { export * }
+}
