@@ -13,10 +13,11 @@ Screen density:2160x1080
 - iPhone 7  
 OS: iOS 12.0  
 Screen density:1334x750  
-
-<img src="screenshot/ios.jpg" width="33%">
+  
 [ONLINE PLAY](https://takaaki-abe.github.io/ngnl-tiny-tetris.html)
-
+  
+<img src="screenshot/ios.jpg" width="33%">
+  
 I’m an old gamer.  
 I learned programming on an 8bit computer to create the game.  
 Flutter is very exciting. The 5KB code worked correctly on iOS and Android.  
