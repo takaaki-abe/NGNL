@@ -1,23 +1,23 @@
 # NGNL(NO GAME NO LIFE)
 
-NGNL is Flutter minimum game engine!
+NGNL is Flutter minimal game engine!!
 
 I tested two devices.
 Low resolution devices may have display problems.
 Sorry my works only in Portrait mode. It does not work in Landscape mode.
 
-HUAWEI nova lite 2
-OS: Android OS 8.0
-Screen density:2160x1080
+- HUAWEI nova lite 2  
+OS: Android OS 8.0  
+Screen density:2160x1080  
 
-iPhone 7
-OS: iOS 12.0
-Screen density:1334x750
+- iPhone 7  
+OS: iOS 12.0  
+Screen density:1334x750  
 
-I’m an old gamer.
-I learned programming on an 8bit computer to create the game.
-Flutter is very exciting. The 5KB code worked correctly on iOS and Android.
-I’m very grateful to the Flutter team. Thank you so much!
+I’m an old gamer.  
+I learned programming on an 8bit computer to create the game.  
+Flutter is very exciting. The 5KB code worked correctly on iOS and Android.  
+I’m very grateful to the Flutter team. Thank you so much!  
 
 ## License
 MIT
